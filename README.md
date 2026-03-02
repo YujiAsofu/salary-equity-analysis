@@ -4,10 +4,10 @@ Uma gestora de uma empresa de tecnologia deseja promover maior igualdade salaria
 
 Entregue as seguintes informações para a gestora:
 
-✔ Distribuição do nº de funcionários, de acordo com gênero, nível de senioridade e nível de formação 
-✔ Evolução média salarial ao longo do tempo, com base na data de último aumento 
-✔ Distribuição salarial por nível de senioridade e gênero 
-✔ Distribuição salarial por anos de experiência e gênero
+✔ Distribuição do nº de funcionários, de acordo com gênero, nível de senioridade e nível de formação<br>
+✔ Evolução média salarial ao longo do tempo, com base na data de último aumento<br>
+✔ Distribuição salarial por nível de senioridade e gênero<br>
+✔ Distribuição salarial por anos de experiência e gênero<br>
 
 Com base nisso, ela tomará decisões importantes para a empresa. 
 
