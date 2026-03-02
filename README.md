@@ -18,16 +18,16 @@ State of Data Brazil 2021 - O maior e mais completo mapeamento do mercado brasil
 
 ##### Arquivos
 
-data/raw.csv: Base de dados original.
-exploratory.ipynb: Notebook para explorar os dados, assim como verificar tipagens e tratativa de valores nulos.
-analysis.ipynb: Notebook contendo o código para analisar os dados de acordo com a demanda da gestora de RH.
-reports/reports.md: Visualização os gráficos gerados, junto com a conclusão final da análise.
+data/raw.csv: Base de dados original.<br>
+exploratory.ipynb: Notebook para explorar os dados, assim como verificar tipagens e tratativa de valores nulos.<br>
+analysis.ipynb: Notebook contendo o código para analisar os dados de acordo com a demanda da gestora de RH.<br>
+reports/reports.md: Visualização os gráficos gerados, junto com a conclusão final da análise.<br>
 
 ##### Ferramentas/Requerimentos
-Python
-Pandas
-Matplotlib
-Seaborn
+Python<br>
+Pandas<br>
+Matplotlib<br>
+Seaborn<br>
 
 ### CONCLUSÃO
 
