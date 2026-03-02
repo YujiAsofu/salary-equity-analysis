@@ -14,6 +14,21 @@ Com base nisso, ela tomará decisões importantes para a empresa.
 Fonte dos dados: 
 State of Data Brazil 2021 - O maior e mais completo mapeamento do mercado brasileiro de dados.
 
+### REALIZAÇÃO
+
+##### Arquivos
+
+data/raw.csv: Base de dados original.
+exploratory.ipynb: Notebook para explorar os dados, assim como verificar tipagens e tratativa de valores nulos.
+analysis.ipynb: Notebook contendo o código para analisar os dados de acordo com a demanda da gestora de RH.
+reports/reports.md: Visualização os gráficos gerados, junto com a conclusão final da análise.
+
+##### Ferramentas/Requerimentos
+Python
+Pandas
+Matplotlib
+Seaborn
+
 ### CONCLUSÃO
 
 De acordo com os dados informados e com a análise realizada, foi possível identificar que:
