@@ -1,0 +1,33 @@
+### Resultados
+
+✔ Distribuição do nº de funcionários, de acordo com gênero, nível de senioridade e nível de formação:
+Gênero:
+![Distribuição por gênero](genero.png)
+Senioridade:
+![Senioridade](senioridade.png)
+Formação:
+![Nível de formação](formacao.png)
+
+✔ Evolução média salarial ao longo do tempo, com base na data de último aumento
+![Evolução média salarial](media_salarial.png)
+
+✔ Distribuição salarial por nível de senioridade e gênero 
+![Distribuição salarial por senioridade e gênero](salario_senioridade_genero.png)
+
+✔ Distribuição salarial por anos de experiência e gênero
+![Distribuição salarial por anos de experiência e gênero](salario_experiencia_genero.png)
+
+### CONCLUSÃO
+
+De acordo com os dados informados e com a análise realizada, foi possível identificar que:
+
+70% dos funcionários são do gênero masculino;
+35,74% são pós-graduados, sendo a maior parcela de formação;
+31,76% são gestores, enquanto 11,98% são de senioridade Junior.
+
+Apenas a média salarial Masculina recebeu um avanço considerável (+18,7%) de 2021 para 2022, recuando novamente em 2023.
+Por outro lado, a média salarial Feminina recuou -3,75%, tornando o príodo de 2022 com a maior desigualdade salarial entre gêneros.
+
+A senioridade que mais apresenta desigualdade na remuneração é na cadeira Senior, com uma média de R$ 14.592,19 para os homens e R$ 12.386,36 para as mulheres, tendo uma diferença de 17,80% a mais para os Seniors masculinos.
+
+Seguindo na mesma linha, a maior desigualdade está presente aos profissionais com mais de 10 anos de mercado (tempo condizente com a desigualdade encontrada no nível Senior). Para esse cenário, a média feminina é de R$ 15.083,33 enquanto a masculina é de R$ 17.449,43, representando uma diferença de 15,68% a mais na folha de pagamento.
