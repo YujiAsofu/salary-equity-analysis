@@ -18,31 +18,31 @@ State of Data Brazil 2021 - O maior e mais completo mapeamento do mercado brasil
 
 ##### Arquivos
 
-data/raw.csv: Base de dados original.
-exploratory.ipynb: Notebook para explorar os dados, assim como verificar tipagens e tratativa de valores nulos.
-analysis.ipynb: Notebook contendo o código para analisar os dados de acordo com a demanda da gestora de RH.
-reports/reports.md: Visualização os gráficos gerados, junto com a conclusão final da análise.
+data/raw.csv: Base de dados original.<br>
+exploratory.ipynb: Notebook para explorar os dados, assim como verificar tipagens e tratativa de valores nulos.<br>
+analysis.ipynb: Notebook contendo o código para analisar os dados de acordo com a demanda da gestora de RH.<br>
+reports/reports.md: Visualização os gráficos gerados, junto com a conclusão final da análise.<br>
 
 ##### Ferramentas/Requerimentos
-Python
-Pandas
-Matplotlib
-Seaborn
+Python<br>
+Pandas<br>
+Matplotlib<br>
+Seaborn<br>
 
 ### CONCLUSÃO
 
 De acordo com os dados informados e com a análise realizada, foi possível identificar que:
 
-70% dos funcionários são do gênero masculino;
-35,74% são pós-graduados, sendo a maior parcela de formação;
-31,76% são gestores, enquanto 11,98% são de senioridade Junior.
+70% dos funcionários são do gênero masculino;<br>
+35,74% são pós-graduados, sendo a maior parcela de formação;<br>
+31,76% são gestores, enquanto 11,98% são de senioridade Junior.<br>
 
-Apenas a média salarial Masculina recebeu um avanço considerável (+18,7%) de 2021 para 2022, recuando novamente em 2023.
-Por outro lado, a média salarial Feminina recuou -3,75%, tornando o príodo de 2022 com a maior desigualdade salarial entre gêneros.
+Apenas a média salarial Masculina recebeu um avanço considerável (+18,7%) de 2021 para 2022, recuando novamente em 2023.<br>
+Por outro lado, a média salarial Feminina recuou -3,75%, tornando o príodo de 2022 com a maior desigualdade salarial entre gêneros.<br>
 
-A senioridade que mais apresenta desigualdade na remuneração é na cadeira Senior, com uma média de R$ 14.592,19 para os homens e R$ 12.386,36 para as mulheres, tendo uma diferença de 17,80% a mais para os Seniors masculinos.
+A senioridade que mais apresenta desigualdade na remuneração é na cadeira Senior, com uma média de R$ 14.592,19 para os homens e R$ 12.386,36 para as mulheres, tendo uma diferença de 17,80% a mais para os Seniors masculinos.<br>
 
-Seguindo na mesma linha, a maior desigualdade está presente aos profissionais com mais de 10 anos de mercado (tempo condizente com a desigualdade encontrada no nível Senior). Para esse cenário, a média feminina é de R$ 15.083,33 enquanto a masculina é de R$ 17.449,43, representando uma diferença de 15,68% a mais na folha de pagamento.
+Na mesma linha, a maior desigualdade está presente aos profissionais com mais de 10 anos de mercado (tempo condizente com a desigualdade encontrada no nível Senior). Para esse cenário, a média feminina é de R$ 15.083,33 enquanto a masculina é de R$ 17.449,43, representando uma diferença de 15,68% a mais na folha de pagamento.
 
 ### Créditos
 
